@@ -310,7 +310,8 @@ $
 
 
 ### What we learned:
-* How a shell works and finds commands
+* What is a shell, 
+* How a shell discovers commands
 * Creating, forking and working with processes
 * Executing a program from another program
 * Handling dynamic memory allocation in a large program
